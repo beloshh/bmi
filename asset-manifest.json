@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bmi/static/css/main.e400fdc2.chunk.css",
+    "main.js": "/bmi/static/js/main.e352c2d2.chunk.js",
+    "main.js.map": "/bmi/static/js/main.e352c2d2.chunk.js.map",
+    "runtime-main.js": "/bmi/static/js/runtime-main.a94da0a6.js",
+    "runtime-main.js.map": "/bmi/static/js/runtime-main.a94da0a6.js.map",
+    "static/js/2.e8fad5ba.chunk.js": "/bmi/static/js/2.e8fad5ba.chunk.js",
+    "static/js/2.e8fad5ba.chunk.js.map": "/bmi/static/js/2.e8fad5ba.chunk.js.map",
+    "index.html": "/bmi/index.html",
+    "precache-manifest.074a1e244fc51df57baf9eafe58ab27b.js": "/bmi/precache-manifest.074a1e244fc51df57baf9eafe58ab27b.js",
+    "service-worker.js": "/bmi/service-worker.js",
+    "static/css/main.e400fdc2.chunk.css.map": "/bmi/static/css/main.e400fdc2.chunk.css.map",
+    "static/js/2.e8fad5ba.chunk.js.LICENSE.txt": "/bmi/static/js/2.e8fad5ba.chunk.js.LICENSE.txt",
+    "static/media/bmi.css": "/bmi/static/media/bg-header-desktop.df6601b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a94da0a6.js",
+    "static/js/2.e8fad5ba.chunk.js",
+    "static/css/main.e400fdc2.chunk.css",
+    "static/js/main.e352c2d2.chunk.js"
+  ]
+}
